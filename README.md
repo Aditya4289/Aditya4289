@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya4289&label=Profile%20views&color=0e75b6&style=flat" alt="aditya4289" /> </p>
 
-<p align="left"> <a href="https://twitter.com/adityap39208215" target="blank"><img src="https://img.shields.io/twitter/follow/adityap39208215?logo=twitter&style=for-the-badge" alt="adityap39208215" /></a> </p>
+<p align="left"> <a href="https://x.com/Aditya4289" target="blank"><img src="https://img.shields.io/twitter/follow/adityap39208215?logo=twitter&style=for-the-badge" alt="Aditya4289" /></a> </p>
 
 - 👀I'm interesred in **Carrom gamming and Coding**
 
@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/adityap39208215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adityap39208215" height="30" width="40" /></a>
+<a href="https://x.com/Aditya4289" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Aditya4289" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aditya pareek 4291a1258" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya pareek 4291a1258" height="30" width="40" /></a>
 <a href="https://fb.com/aditya pareek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aditya pareek" height="30" width="40" /></a>
 <a href="https://instagram.com/mr.adi4289" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr.adi4289" height="30" width="40" /></a>
