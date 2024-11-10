@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya4289&label=Profile%20views&color=0e75b6&style=flat" alt="aditya4289" /> </p>
 
-<p align="left"> <a href="https://x.com/Aditya4289" target="blank"><img src="https://img.shields.io/twitter/follow/adityap39208215?logo=twitter&style=for-the-badge" alt="Aditya4289" /></a> </p>
+<p align="left"> <a href="https://x.com/Aditya4289" target="blank"><img src="https://img.shields.io/twitter/follow/Aditya4289?logo=twitter&style=for-the-badge" alt="Aditya4289" /></a> </p>
 
 - 👀I'm interesred in **Carrom gamming and Coding**
 
